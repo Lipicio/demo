@@ -1,14 +1,31 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "UF": [
+        {"valor": "Acre", "chave": "AC"},
+        {"valor": "Alagoas", "chave": "AL"},
+        {"valor": "Amapá", "chave": "AP"},
+        {"valor": "Amazonas", "chave": "AM"},
+        {"valor": "Bahia", "chave": "BA"},
+        {"valor": "Ceará", "chave": "CE"},
+        {"valor": "Distrito Federal", "chave": "DF"},
+        {"valor": "Espírito Santo", "chave": "ES"},
+        {"valor": "Goiás", "chave": "GO"},
+        {"valor": "Maranhão", "chave": "MA"},
+        {"valor": "Mato Grosso", "chave": "MT"},
+        {"valor": "Mato Grosso do Sul", "chave": "MS"},
+        {"valor": "Minas Gerais", "chave": "MG"},
+        {"valor": "Pará", "chave": "PA"},
+        {"valor": "Paraíba", "chave": "PB"},
+        {"valor": "Paraná", "chave": "PR"},
+        {"valor": "Pernambuco", "chave": "PE"},
+        {"valor": "Piauí", "chave": "PI"},
+        {"valor": "Rio de Janeiro", "chave": "RJ"},
+        {"valor": "Rio Grande do Norte", "chave": "RN"},
+        {"valor": "Rio Grande do Sul", "chave": "RS"},
+        {"valor": "Rondônia", "chave": "RO"},
+        {"valor": "Roraima", "chave": "RR"},
+        {"valor": "Santa Catarina", "chave": "SC"},
+        {"valor": "São Paulo", "chave": "SP"},
+        {"valor": "Sergipe", "chave": "SE"},
+        {"valor": "Tocantins", "chave": "TO"}
+    ]
 }
