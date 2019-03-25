@@ -1,20 +1,8 @@
 {
     "UF": [
-        {"id": "MG", "valor": "Minas Gerais", "chave": "MG"},
-        {"id": "PA", "valor": "Pará", "chave": "PA"},
-        {"id": "PB", "valor": "Paraíba", "chave": "PB"},
-        {"id": "PR", "valor": "Paraná", "chave": "PR"},
-        {"id": "PE", "valor": "Pernambuco", "chave": "PE"},
-        {"id": "PI", "valor": "Piauí", "chave": "PI"},
-        {"id": "RJ", "valor": "Rio de Janeiro", "chave": "RJ"},
-        {"id": "RN", "valor": "Rio Grande do Norte", "chave": "RN"},
-        {"id": "RS", "valor": "Rio Grande do Sul", "chave": "RS"},
-        {"id": "RO", "valor": "Rondônia", "chave": "RO"},
-        {"id": "RR", "valor": "Roraima", "chave": "RR"},
-        {"id": "SC", "valor": "Santa Catarina", "chave": "SC"},
-        {"id": "SP", "valor": "São Paulo", "chave": "SP"},
-        {"id": "SE", "valor": "Sergipe", "chave": "SE"},
-        {"id": "TO", "valor": "Tocantins", "chave": "TO"}
+        {"id": "MG", "valor": "Minas Gerais", "chave": "MG"},      
+        {"id": "RJ", "valor": "Rio de Janeiro", "chave": "RJ"},     
+        {"id": "SP", "valor": "São Paulo", "chave": "SP"}
     ],
     "Cidades_SP": [      
         {"id": "Rio Claro", "valor":  "Rio Claro"},       
