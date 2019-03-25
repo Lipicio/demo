@@ -14,10 +14,10 @@
     ],
     "Bairros_RioClaro": [
         {"id": "1", "valor": "Bairo Rio Claro 1", "chave": "Bairo Rio Claro 1"},
-        {"id": "2", "valor": "Bairo Rio Claro 2", "chave": "Bairo Rio Claro 2"},
+        {"id": "2", "valor": "Bairo Rio Claro 2", "chave": "Bairo Rio Claro 2"}
     ],
     "Bairros_Angra": [
         {"id": "1", "valor": "Bairo Angra 1", "chave": "Bairo Angra 1"},
-        {"id": "2", "valor": "Bairo Angra 2", "chave": "Bairo Angra 2"},
+        {"id": "2", "valor": "Bairo Angra 2", "chave": "Bairo Angra 2"}
     ]
 }
