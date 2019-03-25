@@ -5,11 +5,11 @@
         {"id": "SP", "valor": "São Paulo", "chave": "SP"}
     ],
     "Cidades_SP": [      
-        {"id": "Rio Claro", "valor":  "Rio Claro"},       
-        {"id": "São Paulo", "valor":  "São Paulo"}        
+        {"id": "Rio Claro", "valor":  "Rio Claro", "chave": "Rio Claro"},       
+        {"id": "São Paulo", "valor":  "São Paulo", "chave": "São Paulo"}        
     ],
     "Cidades_RJ": [
-        {"id": "Angra dos Reis", "valor": "Angra dos Reis"},       
-        {"id": "Rio de Janeiro", "valor": "Rio de Janeiro"}       
+        {"id": "Angra dos Reis", "valor": "Angra dos Reis", "chave": "Angra dos Reis"},       
+        {"id": "Rio de Janeiro", "valor": "Rio de Janeiro", "chave": "Rio de Janeiro"}       
     ]
 }
